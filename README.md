@@ -1,5 +1,6 @@
 # 💫 About Me:
-💻 I’m currently working on  coc cumputer vision<br>👯 I’m looking to collaborate on li<br>🤝 I’m looking for help with coc <br>🌴 I’m currently learning data anylestic and no-sql<br>
+💻 I’m currently working on Glide<br>
+<br>🤝 I’m looking for help with Glide <br>🌴 I’m currently learning data anylestic and no-sql<br>
 
 
 ## 🌐 Socials:
